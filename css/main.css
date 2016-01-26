@@ -1,0 +1,176 @@
+.container{
+	width: 700px;
+	margin: 0 auto;
+}
+.margen{
+	border-top: 1px solid black;
+	height: 30px;
+	width: 680px;
+	border-bottom: 1px solid black;
+	margin: auto;
+	margin-top: 30px;
+}
+
+.margen nav{
+	text-align: center;
+	font: 19px bold ;
+	margin-top: 5px;
+}
+
+.container1 img{
+	width:700px;
+	height:500px;
+	margin-top: 10px;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.margen1{
+	border-top: 2px solid grey;
+	border-bottom: 2px solid grey;
+	width: 40px;
+	height: 205px;
+	position: relative;
+	margin: auto;
+	margin-top: 15px;
+}
+
+.margen1 nav{
+	width: 340px;
+	position: relative;
+	text-align: center;
+	left: -150px;
+	top: 20px;
+	font: 20px bold;
+}
+
+body {
+	margin: 40px 0px 0px 20px;
+}
+
+h4 {
+	font: 20px Arial;
+	margin-bottom: 10px;
+	position: relative;
+	width: 300px;
+}
+
+h2 {
+	font: 15px Verdana;
+	color: white;
+	position: relative;
+	text-align: right;
+	right: 10px;
+	top:-25px;
+}
+
+.borde {
+	border-bottom: 4px solid black;
+	width: 50px;
+	margin-left: 60px;
+	margin-bottom: 30px;
+}
+
+.i1 {
+	margin-top: 10px;
+	margin-left: 60px;
+	display: inline-block;
+}
+
+.b1 {
+	position: relative;
+	width: 211px;
+	height: 211px;
+	display: inline-block;
+	margin-right: 15px;
+	margin-left: 15px;
+	display: inline-block;
+}
+.NC{
+	margin-left: 250px;
+}
+
+.newb{
+	border: 1px solid grey;
+	width: 700px;
+	margin:auto;
+	height: 950px;
+	margin-bottom: 20px;
+}
+
+.b2 img{
+	height: 100px;
+	width: 150px;
+	position: relative;
+	margin: auto;
+	float: left;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-left: 10px;
+	left: 40px;
+	margin-bottom: 10px;
+}
+.i2 {
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.img1 img{
+	border-radius: 100%;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	left: 300px;
+	top: 20px;
+}
+
+h3{
+	text-align: center;
+	margin-top: 25px;
+	font-size: 25px;
+	margin-bottom: 20px;
+}
+
+p{
+	text-align: center;
+	margin:auto;
+	width: 500px;
+	margin-bottom:30px;
+}
+h5{
+text-align: left; 
+margin-left: 10px;
+margin-top: 15px;
+margin-bottom: 20px;
+color: white;
+}
+
+b{
+	font-size: 25px;
+	margin-left: 40px;
+	margin-bottom:30px;
+	margin-top: 30px;
+}
+
+.h{
+	border: 1px solid grey;
+	background-color: grey;
+	height: 50px;
+	margin-left: 100px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+.html{
+	width: 400px;
+}
+
+.css{
+	width: 250px;
+}
+.js{
+	width: 150px;
+}
